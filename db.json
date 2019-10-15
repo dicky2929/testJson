@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "title": "JUALE.COM",
+  "description": "e-commerece",
+  "product": [
+    { "id": "1", "barang": "Sendal", "harga": "Rp.25.000" },
+    { "id": "2", "barang": "Baju", "harga": "Rp.75.000" },
+    { "id": "3", "barang": "Celanan", "harga": "Rp.125.000" },
+    { "id": "4", "barang": "Jaket", "harga": "Rp.525.000" },
+    { "id": "5", "barang": "Sepatu", "harga": "Rp.325.000" }
+  ]
 }
